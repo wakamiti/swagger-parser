@@ -17,8 +17,6 @@
     <description>Shaded swagger-parser to avoid conflicts in automatic module names</description>
 
     <properties>
-        <project.repository>swagger-parser</project.repository>
-
         <jackson.version>2.18.2</jackson.version>
     </properties>
 
